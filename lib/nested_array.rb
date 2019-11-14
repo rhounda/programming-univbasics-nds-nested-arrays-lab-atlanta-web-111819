@@ -59,11 +59,11 @@ matrix = [
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]
- [ "Don Gately",
+ ["Don Gately",
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
-  "Bruce Green" ]
+  "Bruce Green"]
   ]
   
 end
