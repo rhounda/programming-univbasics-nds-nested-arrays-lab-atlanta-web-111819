@@ -53,12 +53,19 @@ end
 def matrix_lookup(matrix, row, column)
  
 
-tennis = ["Hal Incandenza",
+matrix = [
+  ["Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]
-  house = 
+ [ "Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green" ]
+  ]
+  
 end
 
 def matrix_update(matrix, row, column, new_value)
