@@ -69,5 +69,18 @@ matrix = [
 end
 
 def matrix_update(matrix, row, column, new_value)
- 
+ matrix = [
+  ["Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"]
+ ["Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"]
+  ]
+  
+matrix [1][1]
 end
