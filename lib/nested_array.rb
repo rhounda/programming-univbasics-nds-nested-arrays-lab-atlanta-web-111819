@@ -51,7 +51,13 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  
+ 
+
+tennis =["Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"]
 end
 
 def matrix_update(matrix, row, column, new_value)
